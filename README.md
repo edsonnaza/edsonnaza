@@ -24,6 +24,27 @@ This repository contains a showcase of my projects, skills, and experience as a 
 
 I am a passionate and experienced software engineer with expertise in full-stack web development. With over [6] years of experience, I have successfully delivered a wide range of projects, from e-commerce platforms to complex management systems.
 
+<br/>
+
+##📈 Github Profile Stats
+<p align="center">
+    <a href="https://github.com/edsonnaza">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=edsonnaza&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonnaza&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonnaza&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
+<br/>
+
+<p align="center" item="center">
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonnaza)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+ 
+ 
+ 
 ## Projects
 
 ### Karokids e-commerce
