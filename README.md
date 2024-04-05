@@ -39,7 +39,7 @@ I am a passionate and experienced software engineer with expertise in full-stack
 
 <p align="center" item="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonnaza)](https://github.com/edsonnaza/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonnaza)](https://wakatime.com/@edsonnaza)
 </p>
 
  
